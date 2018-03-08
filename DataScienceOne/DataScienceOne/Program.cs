@@ -36,7 +36,7 @@ namespace DataScienceOne
                 else
                 {
                     result.Add(int.Parse(user[0]), rating);
-                    Console.WriteLine("Adding to new key...");
+                    Console.WriteLine("Adding to new key " + user[0] + "...");
                 }
             }
 
