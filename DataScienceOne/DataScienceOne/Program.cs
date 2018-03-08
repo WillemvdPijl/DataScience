@@ -16,7 +16,7 @@ namespace DataScienceOne
             Dictionary<int, Dictionary<int, float>> result = new Dictionary<int, Dictionary<int, float>>();
 
             Console.WriteLine(" ");
-            Console.WriteLine("========= Task 1 =========");
+            Console.WriteLine("============== Task 1 ==============");
             Console.WriteLine(" ");
 
             foreach (string item in userItem)
@@ -36,12 +36,12 @@ namespace DataScienceOne
                 else
                 {
                     result.Add(int.Parse(user[0]), rating);
-                    Console.WriteLine("Adding to new key " + user[0] + "...");
+                    Console.WriteLine("Creating and adding to new key " + user[0] + "...");
                 }
             }
 
             Console.WriteLine(" ");
-            Console.WriteLine("========= Done =========");
+            Console.WriteLine("============== Done ==============");
             Console.WriteLine(" ");
             Console.WriteLine("Hit any key to exit...");
             Console.ReadKey();
