@@ -1,0 +1,10 @@
+C:\Users\Willem\Dev\DataScienceOne\bin\Debug\netcoreapp2.0\DataScienceOne.deps.json
+C:\Users\Willem\Dev\DataScienceOne\bin\Debug\netcoreapp2.0\DataScienceOne.runtimeconfig.json
+C:\Users\Willem\Dev\DataScienceOne\bin\Debug\netcoreapp2.0\DataScienceOne.runtimeconfig.dev.json
+C:\Users\Willem\Dev\DataScienceOne\bin\Debug\netcoreapp2.0\DataScienceOne.dll
+C:\Users\Willem\Dev\DataScienceOne\bin\Debug\netcoreapp2.0\DataScienceOne.pdb
+C:\Users\Willem\Dev\DataScienceOne\obj\Debug\netcoreapp2.0\DataScienceOne.csproj.CoreCompileInputs.cache
+C:\Users\Willem\Dev\DataScienceOne\obj\Debug\netcoreapp2.0\DataScienceOne.AssemblyInfoInputs.cache
+C:\Users\Willem\Dev\DataScienceOne\obj\Debug\netcoreapp2.0\DataScienceOne.AssemblyInfo.cs
+C:\Users\Willem\Dev\DataScienceOne\obj\Debug\netcoreapp2.0\DataScienceOne.dll
+C:\Users\Willem\Dev\DataScienceOne\obj\Debug\netcoreapp2.0\DataScienceOne.pdb
