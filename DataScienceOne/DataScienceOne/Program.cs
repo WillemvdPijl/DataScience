@@ -13,6 +13,8 @@ namespace DataScienceOne
             Console.WriteLine("Reading file...");
             string[] userItem = System.IO.File.ReadAllLines(@"../../userItem.data");
 
+  //======================================== Task 1 ========================================
+
             Dictionary<int, Dictionary<int, float>> result = new Dictionary<int, Dictionary<int, float>>();
 
             Console.WriteLine(" ");
@@ -43,6 +45,9 @@ namespace DataScienceOne
             Console.WriteLine(" ");
             Console.WriteLine("============== Done ==============");
             Console.WriteLine(" ");
+
+//======================================== Task 2 ========================================
+
             Console.WriteLine("Hit any key to exit...");
             Console.ReadKey();
         }
