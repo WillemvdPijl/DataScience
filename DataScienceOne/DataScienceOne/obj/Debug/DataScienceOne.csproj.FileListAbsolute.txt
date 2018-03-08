@@ -1,0 +1,6 @@
+C:\Users\Willem\Dev\DataScience\DataScienceOne\DataScienceOne\bin\Debug\DataScienceOne.exe.config
+C:\Users\Willem\Dev\DataScience\DataScienceOne\DataScienceOne\bin\Debug\DataScienceOne.exe
+C:\Users\Willem\Dev\DataScience\DataScienceOne\DataScienceOne\bin\Debug\DataScienceOne.pdb
+C:\Users\Willem\Dev\DataScience\DataScienceOne\DataScienceOne\obj\Debug\DataScienceOne.csprojResolveAssemblyReference.cache
+C:\Users\Willem\Dev\DataScience\DataScienceOne\DataScienceOne\obj\Debug\DataScienceOne.exe
+C:\Users\Willem\Dev\DataScience\DataScienceOne\DataScienceOne\obj\Debug\DataScienceOne.pdb
